@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "335810557244",
+    "firebase_url": "https://myheat-2a223.firebaseio.com",
+    "project_id": "myheat-2a223",
+    "storage_bucket": "myheat-2a223.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335810557244:android:ade3c8c968914d39a3da39",
+        "android_client_info": {
+          "package_name": "com.muhammad.heatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335810557244-k5c7smvrsbu56dd5r72j9oueengosish.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYg4gtVLPo9STKVkdtdQ9Pu9zIpu0resw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335810557244-k5c7smvrsbu56dd5r72j9oueengosish.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
